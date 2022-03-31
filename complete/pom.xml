@@ -55,7 +55,7 @@
           <schemaVersion>v2</schemaVersion>
           <subscriptionId>abd32062-bb03-496d-a65d-df86c975206e</subscriptionId>
           <resourceGroup>spring-boot-complete-1648652321356-rg</resourceGroup>
-          <appName>spring-boot-complete-1648652321356</appName>
+          <appName>employee-pulse</appName>
           <pricingTier>F1</pricingTier>
           <region>centralus</region>
           <runtime>
